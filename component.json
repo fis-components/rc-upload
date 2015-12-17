@@ -1,0 +1,12 @@
+{
+    "name": "rc-upload",
+    "description": "upload ui component for react",
+    "repos": "https://github.com/react-component/upload.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "warning": "2.x"
+    },
+    "version": "1.6.6"
+}
